@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Up](uplife.link)
 - 🏠 I'm living in Tokyo
 - 🌱 I’m currently learning Monozukuri
-- 🤔 I’m looking for help with　Django/React + AWS
+- 🤔 I’m looking for help with Django/React + AWS
 - 📫 How to reach me: takuzen0430[at]gmail.com
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... A foodie
