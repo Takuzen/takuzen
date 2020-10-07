@@ -12,4 +12,4 @@
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... A foodie
 
-more →→→　https://takuzen.github.io/
+more details →→→　https://takuzen.github.io/
